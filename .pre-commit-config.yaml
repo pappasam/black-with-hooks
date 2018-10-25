@@ -1,3 +1,4 @@
+fail_fast: true
 repos:
   - repo: https://github.com/ambv/black
     rev: stable
@@ -8,4 +9,9 @@ repos:
     rev: 'master'
     hooks:
       - id: isort
+        language_version: python3.7
+  - repo: https://github.com/pre-commit/mirrors-pylint
+    rev: 'master'
+    hooks:
+      - id: pylint
         language_version: python3.7

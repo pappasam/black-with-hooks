@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 """The main module"""
 
+# pylint: disable=unused-argument
+# pylint: disable=unused-import
+
 import os
 import shutil
 from os.path import (
@@ -12,6 +15,8 @@ from os.path import (
     devnull,
     getatime,
 )
+
+A = 12
 
 
 def very_long_function_name_please_stop(
