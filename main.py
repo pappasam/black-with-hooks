@@ -17,7 +17,7 @@ from os.path import (
 )
 
 # This is a comment
-A = 12
+a = 12
 
 
 def very_long_function_name_please_stop(
