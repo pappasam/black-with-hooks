@@ -16,6 +16,8 @@ able to commit Python code to git.
 make setup
 ```
 
+Feel free to read the Makefile contents to get a feeling for what's happening.
+
 ## Usage
 
 1. Try to make the Python code in main.py poorly-formatted
@@ -24,4 +26,4 @@ make setup
 
 ## Author
 
-Samuel Roeca
+Samuel Roeca *samuel.roeca@gmail.com*
