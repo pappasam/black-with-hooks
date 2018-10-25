@@ -5,10 +5,10 @@ able to commit Python code to git.
 
 ## Tools
 
-* black: a code formatter
-* isort: formats Python import statements
-* pylint: a great linter
-* pre-commit: a project that makes it easy to run the above tools pre-commit
+* [black](https://github.com/ambv/black): a code formatter
+* [isort](https://github.com/timothycrosley/isort): formats Python import statements
+* [pylint](https://github.com/PyCQA/pylint): a great linter
+* [pre-commit](https://github.com/pre-commit/pre-commit): a project that makes it easy to run the above tools pre-commit
 
 ## Setup
 
